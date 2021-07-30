@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
 
  <div>
   <a href="https://github.com/gabrielletuao">
@@ -26,7 +25,7 @@
  	<a href = "mailto:gabrielle.donna2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielle-tu%C3%A3o-donna-a8b526142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gabrielletuao/gabrielletuao/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
