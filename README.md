@@ -13,7 +13,7 @@
   <img align="center" alt="Gabrielle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabrielle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabrielle-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="right" alt="Gabrielle-yoda" height="150" width="150"  src="https://i.picasion.com/pic91/a1703374b62a91283eb52cc39fc6104f.gif">
+  ##<img align="right" alt="Gabrielle-yoda" height="200" width="200"  src="https://media.giphy.com/media/yBwcx562kZ2FWlYb2A/giphy.gif">
 </div>
 
  ##
